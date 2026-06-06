@@ -1,8 +1,6 @@
 Name : Ravali Arvind 
 Date : 05/06/2025
 LLM used : Claude sonnet 4.6
-I can see this is a Prompt Engineering Portfolio Assignment from Masai. Let me help you complete Part 1 — the three content generation tasks with prompt iterations.
-
 ---
 
 # Part 1: Prompt Design & Iteration
